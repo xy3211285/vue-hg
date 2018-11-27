@@ -1,7 +1,3 @@
-# hype
-
-> http://www.hyper-g.com.cn 
-
 ## Build Setup
 
 ``` bash
